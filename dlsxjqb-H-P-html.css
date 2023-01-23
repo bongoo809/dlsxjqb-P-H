@@ -62,13 +62,12 @@ input[id="menuicon"]:checked + label + div {
     right: 0;
 }
 .A {
-    font-size: 100px;
     color: #ffffff;
 }
 div[class="pinbar"] {
     background: skyblue;
     top: 0%;
-    width: 200px;
+    width: 100px;
     height: 100%;
 }
 input[id="ctl"] {
